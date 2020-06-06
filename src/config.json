@@ -1,0 +1,4 @@
+{
+    "weather_url": "https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&units={units}&exclude=hourly,daily&appid=5ecdfc8c0b721034bf1a6f034390d129",
+    "geo_url": "https://api.mapbox.com/geocoding/v5/mapbox.places/{address}.json?access_token=pk.eyJ1IjoiZGFtYW5wcmVldDk0IiwiYSI6ImNrYjJoc2IxazBibXkycW15ZG9zajF2bDAifQ.tBbAOuqjVfA1OK1qxg0TNQ&limit=1"
+}
